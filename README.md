@@ -3,4 +3,4 @@
 <h3>É necessário abrir o projeto no NetBenas</h3>
 
 <h3>Exemplo:</h3>
-![exemplo]<img src="http://i.imgur.com/BYSV8K1.png"/>
+<img src="http://i.imgur.com/BYSV8K1.png"/>
