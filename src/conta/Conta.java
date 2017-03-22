@@ -23,7 +23,7 @@ public class Conta {
         int ni;
         Scanner scanner = new Scanner(System.in);
         do{
-            System.out.println("___Menu___"+ 
+            System.out.println("___Menu___\n"+ 
                 "0. Fim\n" +
                 "1. Deposito\n" +
                 "2. Saque\n" +
